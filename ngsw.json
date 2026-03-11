@@ -1,0 +1,67 @@
+{
+  "configVersion": 1,
+  "timestamp": 1773256000335,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-ANZYF4H2.js",
+        "/manifest.webmanifest",
+        "/styles-V2J23XMS.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/fonts/Inter-Bold.woff2",
+        "/fonts/Inter-Regular.woff2",
+        "/fonts/JetBrainsMono-Regular.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/fonts/Inter-Bold.woff2": "5cbf10e9f8be7dac2a365bfb21fe6ddf4641e569",
+    "/fonts/Inter-Regular.woff2": "b7a0b6fbebc40eb29b76cf135c4b7be50b981b4b",
+    "/fonts/JetBrainsMono-Regular.woff2": "b7fdfcb88b9504d161f9007fb2eceb205275bea3",
+    "/index.html": "8635804510c61e2bff708298f2a0e83496ce8bf8",
+    "/main-ANZYF4H2.js": "e333d4300780ccc63e2f74cd0fc274c9969cec18",
+    "/manifest.webmanifest": "5cb0e939cb91a5e42a20088c056d1b071b51e20e",
+    "/styles-V2J23XMS.css": "75b754b526a42837d2194ff054bbcd45bad16559"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
