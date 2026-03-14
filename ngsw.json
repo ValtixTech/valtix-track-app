@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1773449642907,
+  "timestamp": 1773450522539,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main-V3CVJEKN.js",
+        "/main-W3MTTGPP.js",
         "/manifest.webmanifest",
         "/styles-V2J23XMS.css"
       ],
@@ -43,11 +43,11 @@
     "/fonts/Inter-Bold.woff2": "5cbf10e9f8be7dac2a365bfb21fe6ddf4641e569",
     "/fonts/Inter-Regular.woff2": "b7a0b6fbebc40eb29b76cf135c4b7be50b981b4b",
     "/fonts/JetBrainsMono-Regular.woff2": "b7fdfcb88b9504d161f9007fb2eceb205275bea3",
-    "/index.html": "4dd7cbb56faa8a66e0daefccc5b0579251fa9c69",
+    "/index.html": "56d0955135130d886f65a7cf4dca4aa72d9f7a9d",
     "/logo-192.png": "b1bb93ca677620469b19b930c9186880617c46d2",
     "/logo-512.png": "b25a07a09db53e95457c98387df2644321bb5a16",
     "/logo-track.svg": "8210d4666134c156bf832fc1f4e1622d6f096aa1",
-    "/main-V3CVJEKN.js": "009cb0038dd6513ba2700f74bc6c49b4811b34bf",
+    "/main-W3MTTGPP.js": "20b4c1f1c14c24502655236c57985fc76b97247e",
     "/manifest.webmanifest": "a58eaf5c9f4564c0d062b5a57e669a4e157ea4b9",
     "/styles-V2J23XMS.css": "75b754b526a42837d2194ff054bbcd45bad16559",
     "/valtix-logo-icon.png": "a8316ec86c7673bdc80c59949e785893eacf79d2",
